@@ -1,6 +1,5 @@
 # 💫 About Me:
-My Name Ahmad Ridwan
-I am from Lombok
+My Name Ahmad Ridwan,I am from Lombok
 
 
 # 💻 Tech Stack:
